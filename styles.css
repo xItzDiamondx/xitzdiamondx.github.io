@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
 }
 
 nav {
@@ -12,8 +13,8 @@ nav {
     justify-content: space-around;
     align-items: center;
     min-height: 8vh;
-    background-color: #5D4954;
-    font-family: "Poppins", sans-serif;
+    background-color: #014f82;
+    font-family: 'Montserrat', sans-serif;
 }
 
 .logo {
