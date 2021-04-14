@@ -13,7 +13,7 @@ nav {
     justify-content: space-around;
     align-items: center;
     min-height: 8vh;
-    background-color: #014f82;
+    background-color: #0d1b2e;
     font-family: 'Montserrat', sans-serif;
 }
 
@@ -114,4 +114,12 @@ nav {
 
 .toggle .line3 {
     transform: rotate(45deg) translate(-5px, -6px);
+}
+
+.hi {
+    text-align: center;
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
 }
