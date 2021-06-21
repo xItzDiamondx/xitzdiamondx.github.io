@@ -119,7 +119,7 @@ nav {
 
 .hi {
     text-align: center;
-    padding: 20px;
+    /* padding: 20px;
     display: flex;
     flex-direction: column;
     text-align: justify;
@@ -127,13 +127,13 @@ nav {
     justify-content: Center;
     align-items: center;
     position: relative;
-}
-
+*/}
+/*
 .h1 > * {
     position: relative;
     z-index: 2;
 }
-
+*/
 body {
     font-family: 'Montserrat', sans-serif;
 }
@@ -145,7 +145,7 @@ footer {
 .404img {
     align-items: Center;
 }
-
+/*
 .h1:nth-of-type(1) {
     background-image: url(https://xitzdiamondx.github.io/assets/img/walpaper1.jpeg);
     background-position: center;
@@ -157,3 +157,4 @@ footer {
     left: 0; top 0;
     width: 100%; height 100%;
 }
+*/
