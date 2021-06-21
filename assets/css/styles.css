@@ -63,6 +63,7 @@ nav {
 @media screen and (max-width: 768px) {
     body {
         overflow-x: hidden;
+        
     }
     
     .nav-links {
@@ -118,6 +119,20 @@ nav {
 
 .hi {
     text-align: center;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    text-align: justify;
+    height: 100vh;
+    justify-content: Center;
+    align-items: center;
+    color: #ffffff;
+    position: relative;
+}
+
+.h1 > * {
+    position: relative;
+    z-index: 2;
 }
 
 body {
@@ -125,5 +140,22 @@ body {
 }
 
 footer {
-    text-align: center;
+    align-items: center;
+}
+
+.404img {
+    align-items: Center;
+}
+
+.h1:nth-of-type(1) {
+    background-image: url(https://xitzdiamondx.github.io/assets/img/walpaper1.jpeg);
+    background-position: center;
+}
+
+.h1:after {
+    content: '';
+    position: absolute;
+    left: 0; top 0;
+    width: 100%; height 100%;
+    background: rgba(0,0,0,.4);
 }
