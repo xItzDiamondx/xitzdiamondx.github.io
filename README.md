@@ -1,10 +1,2 @@
 # NotDiamond's Website
-[![](https://img.shields.io/github/stars/xItzDiamondx/website?color=blue&style=flat-square)](https://github.com/xItzDiamondx/website/stargazers) 
-[![](https://img.shields.io/github/forks/xItzDiamondx/website?color=blue&style=flat-square)](https://github.com/xItzDiamondx/website/network/members)
-[![](https://img.shields.io/github/watchers/xItzDiamondx/website?color=blue&style=flat-square)](https://github.com/xItzDiamondx/website/watchers) 
-[![](https://img.shields.io/github/issues/xItzDiamondx/website?color=green&style=flat-square)](https://github.com/xItzDiamondx/website/issues) 
-[![](https://img.shields.io/github/issues-pr/xItzDiamondx/website?color=green&style=flat-square)](https://github.com/xItzDiamondx/website/pulls)   
-[![](https://img.shields.io/github/v/release/xItzDiamondx/website?style=flat-square&logo=github&logoColor=white&label=version&color=181717)](https://github.com/xItzDiamondx/website/releases)
-[![](https://img.shields.io/github/downloads/xItzDiamondx/website/total?style=flat-square&logo=github&logoColor=white&label=downloads&color=181717)](https://github.com/xItzDiamondx/website/releases)
-[![](https://img.shields.io/badge/discuss-on_github-181717.svg?style=flat-square)](https://github.com/xItzDiamondx/website/discussions)
-[![](https://img.shields.io/badge/website-xitzdiamondx.github.io-logo.png?style=flat-square)](https://xitzdiamondx.github.io)
+just my personal website
