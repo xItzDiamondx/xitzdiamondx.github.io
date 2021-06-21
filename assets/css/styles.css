@@ -139,11 +139,11 @@ body {
 }
 
 footer {
-    align-items: center;
+    text-align: center;
 }
 
 .404img {
-    align-items: Center;
+    text-items: Center;
 }
 /*
 .h1:nth-of-type(1) {
