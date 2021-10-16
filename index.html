@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
+    <script src="assets/js/jquery-2.1.4.js"></script>
     <link rel="shortcut icon" type="image/x-icon" href="assets/img/favicon.ico">
     <title>NotDiamondZ - Home</title>
     <link rel="stylesheet" href="assets/css/styles.css"/>
@@ -15,7 +16,7 @@
         <h4>NotDiamond</h4>
     </div>
     <ul class="nav-links">
-        <li><a title="Go Home" href="index.html">Home</a></li>
+        <li><a title="Go Home" href="https://xitzdiamondx.github.io">Home</a></li>
         <li><a title="Read About Me" href="about.html">About</a></li>
         <li><a title="See My Projects" href="projects.html">Projects</a></li>
         <li><a title="Contact Me" href="inprogress.html">Contact</a></li>
@@ -32,14 +33,25 @@
   <div class="div1">
     <h2>Hi, I'm Zack</h2>
   </div>
-    <br><br><br><!-- <br><br> -->
+    <br><br><br>
+  <div class="div2">
+      <h2>I'm a Self-Taught Developer</h2>
+  </div>
+  <div class="loader-wrapper">
+    <span class="loader"><span class="loader-inner"></span></span>
+  </div>
+  <script>
+      $(window).on("load",function(){
+        $(".loader-wrapper").fadeOut("slow");
+      });
+  </script>
   </body>
   <footer>
-    <a title="Source Code" href="https://github.com/xItzDiamondx/xitzdiamondx.github.io"><img src="https://simpleicons.org/icons/github.svg" width=20 alt="Source Code"></a>
-    <a title="Download Visual Studio Code" href="https://code.visualstudio.com/download"><img src="https://simpleicons.org/icons/visualstudiocode.svg" width=20 alt="Download Visual Studio Code"></a>
-    <a title="Follow my Vimeo" href="https://vimeo.com/notdiamondz"><img src="https://simpleicons.org/icons/vimeo.svg" width=20 alt="Vimeo Channel"></a>
-    <a title="Follow my Instagram" href="https://www.instagram.com/TheOfficialDiamondZ/"><img src="https://simpleicons.org/icons/instagram.svg" width=20 alt="Instagram"></a>
-    <a title="Email me" href="mailto:notdiamondz@protonmail.com"><img src="https://simpleicons.org/icons/protonmail.svg" width=20 alt="Email"></a>
+    <a title="Source Code" href="https://github.com/xItzDiamondx/xitzdiamondx.github.io"><img src="https://simpleicons.org/icons/github.svg" width="20" alt="Source Code"></a>
+    <a title="Download Visual Studio Code" href="https://code.visualstudio.com/download"><img src="https://simpleicons.org/icons/visualstudiocode.svg" width="20" alt="Download Visual Studio Code"></a>
+    <a title="Follow my Vimeo" href="https://vimeo.com/notdiamondz"><img src="https://simpleicons.org/icons/vimeo.svg" width="20" alt="Vimeo Channel"></a>
+    <a title="Follow my Instagram" href="https://www.instagram.com/TheOfficialDiamondZ/"><img src="https://simpleicons.org/icons/instagram.svg" width="20" alt="Instagram"></a>
+    <a title="Email me" href="mailto:notdiamondz@protonmail.com"><img src="https://simpleicons.org/icons/protonmail.svg" width="20" alt="Email"></a>
     <p class="footer-info1">© Copyright 2021 xItzDiamondx. All rights reserved</p>
   </footer>
-<html>
+</html>
